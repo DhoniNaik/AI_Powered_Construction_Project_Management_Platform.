@@ -1,0 +1,11 @@
+project,start_date,end_date,status,completion_percentage,delay_days,risk_level
+Metro Line Extension,2024-01-01,2024-04-01,On Track,35,0,Medium
+Highway Expansion,2024-02-01,2024-05-01,Delayed,25,15,High
+Smart City Complex,2024-03-01,2024-06-01,On Track,20,0,Low
+Airport Terminal,2024-04-01,2024-07-01,Ahead,40,-10,Medium
+Bridge Construction,2024-05-01,2024-08-01,On Track,15,0,High
+Railway Station,2024-06-01,2024-09-01,Delayed,10,20,Medium
+Commercial Complex,2024-07-01,2024-10-01,On Track,5,0,Low
+Hospital Building,2024-08-01,2024-11-01,Ahead,30,-5,Medium
+Shopping Mall,2024-09-01,2024-12-01,On Track,25,0,Low
+Residential Tower,2024-10-01,2025-01-01,Delayed,15,10,High

@@ -1,0 +1,11 @@
+date,risk_score,category,weather_condition,site_condition_score,natural_disaster_probability,historical_weather_severity
+2024-01-01,65,Weather Risk,Heavy Rain,85,0.15,High
+2024-01-02,45,Site Safety,Clear,75,0.05,Low
+2024-01-03,75,Natural Disaster,Storm Warning,90,0.45,Severe
+2024-01-04,55,Weather Risk,Moderate Rain,70,0.20,Medium
+2024-01-05,35,Site Safety,Clear,65,0.08,Low
+2024-01-06,80,Natural Disaster,Cyclone Alert,95,0.60,Critical
+2024-01-07,50,Weather Risk,Clear,60,0.10,Low
+2024-01-08,70,Site Safety,Moderate Rain,80,0.25,Medium
+2024-01-09,40,Weather Risk,Clear,65,0.05,Low
+2024-01-10,60,Natural Disaster,Flood Warning,85,0.35,High

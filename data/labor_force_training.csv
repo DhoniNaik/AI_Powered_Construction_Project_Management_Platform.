@@ -1,0 +1,11 @@
+worker_id,name,skill_level,certification,hourly_rate,availability_status,years_experience,specialization
+W001,John Smith,Expert,PMP,45.00,Available,12,Project Management
+W002,Maria Garcia,Advanced,OSHA Safety,35.00,On Assignment,8,Safety Supervision
+W003,David Lee,Intermediate,Equipment Operator,28.00,Available,5,Heavy Equipment
+W004,Sarah Johnson,Expert,Structural Engineer,50.00,On Leave,15,Structural Engineering
+W005,James Wilson,Beginner,Basic Safety,22.00,Available,1,General Labor
+W006,Emma Brown,Advanced,Electrical License,38.00,On Assignment,10,Electrical
+W007,Michael Chen,Expert,Civil Engineer,48.00,Available,13,Civil Engineering
+W008,Lisa Anderson,Intermediate,Welding Cert,30.00,Available,6,Welding
+W009,Robert Taylor,Advanced,HVAC Tech,36.00,On Assignment,9,HVAC Systems
+W010,Amanda Martinez,Expert,Architecture License,52.00,Available,14,Architecture

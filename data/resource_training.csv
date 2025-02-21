@@ -1,0 +1,21 @@
+date,resource_type,utilization,project,capacity,efficiency,maintenance_status,supplier_name,base_price,price_fluctuation,shortage_risk,natural_disaster_impact,economic_trend
+2024-01-01,Heavy Equipment,85,Metro Line Extension,100,0.85,Operational,,,,,
+2024-01-02,Skilled Labor,75,Highway Expansion,80,0.94,Available,,,,,
+2024-01-03,Construction Materials,90,Smart City Complex,95,0.95,In Stock,,,,,
+2024-01-04,Engineering Staff,65,Airport Terminal,70,0.93,Available,,,,,
+2024-01-05,Heavy Equipment,70,Highway Expansion,100,0.70,Under Maintenance,,,,,
+2024-01-06,Skilled Labor,95,Metro Line Extension,100,0.95,Available,,,,,
+2024-01-07,Construction Materials,80,Airport Terminal,85,0.94,Low Stock,,,,,
+2024-01-08,Engineering Staff,85,Smart City Complex,90,0.94,Available,,,,,
+2024-01-09,Heavy Equipment,75,Smart City Complex,100,0.75,Operational,,,,,
+2024-01-10,Skilled Labor,80,Airport Terminal,85,0.94,Available,,,,,
+2024-01-01,Cement,,"1000","+5%","Low","0.10","Stable"
+2024-01-02,Steel,,"2000","+15%","High","0.25","Rising"
+2024-01-03,Concrete,,"800","-2%","Medium","0.15","Declining"
+2024-01-04,Timber,,"1500","+8%","Critical","0.40","Volatile"
+2024-01-05,Cement,,"1100","+3%","Low","0.05","Stable"
+2024-01-06,Steel,,"1900","+20%","High","0.35","Rising"
+2024-01-07,Concrete,,"850","0%","Medium","0.20","Stable"
+2024-01-08,Timber,,"1400","-5%","Low","0.15","Declining"
+2024-01-09,Cement,,"1050","+2%","Low","0.10","Stable"
+2024-01-10,Steel,,"2100","+25%","Critical","0.45","Volatile"

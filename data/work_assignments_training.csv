@@ -1,0 +1,11 @@
+assignment_id,worker_id,project_name,task_description,start_date,end_date,completion_status,performance_score
+A001,W001,Metro Line Extension,Project coordination and team management,2024-01-01,2024-03-01,In Progress,92
+A002,W002,Highway Expansion,Safety protocol implementation,2024-01-15,2024-02-15,Completed,95
+A003,W003,Smart City Complex,Equipment operation and site clearing,2024-02-01,2024-02-28,Completed,88
+A004,W004,Airport Terminal,Structural integrity assessment,2024-01-10,2024-02-10,Delayed,None
+A005,W005,Bridge Construction,General construction support,2024-02-15,2024-03-15,In Progress,85
+A006,W006,Railway Station,Electrical system installation,2024-01-20,2024-03-20,In Progress,90
+A007,W007,Commercial Complex,Site planning and engineering,2024-02-01,2024-04-01,On Track,94
+A008,W008,Hospital Building,Steel framework welding,2024-01-15,2024-02-15,Completed,87
+A009,W009,Shopping Mall,HVAC system installation,2024-02-10,2024-04-10,In Progress,91
+A010,W010,Residential Tower,Architectural design review,2024-01-01,2024-03-01,On Track,96
